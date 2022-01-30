@@ -6,7 +6,7 @@ _metadata:
   is_active: true
 aaa-new-model: false
 cdp: true
-lldp: true
+lldp: false
 ntp:
 - ip: 10.1.1.1
   prefer: false

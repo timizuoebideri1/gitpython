@@ -1,0 +1,5 @@
+{% for device in queryset %}
+{% if device.status %}
+Hostname: {{ device.name }}
+{% endif %}
+{% endfor %}
